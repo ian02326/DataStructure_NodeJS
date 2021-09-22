@@ -2,7 +2,7 @@
 //JS PPT: https://drive.google.com/open?id=0BwN5VWV_C7-5ZnE3d045YWZJb00
 //Javascript 變數的使用
 
-var weight=50.5;
+var weight=70.5;
 var height=160;
 var bmi = weight/((height/100)**2);
 
